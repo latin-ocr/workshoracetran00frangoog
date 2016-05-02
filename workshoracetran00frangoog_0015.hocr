@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./workshoracetran00frangoog_0015.png"; bbox 0 0 2009 3334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 154 166 990 435">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 67 114 990 475">
+     <span class='ocr_line' id='line_1_1' title="bbox 154 166 990 435; baseline -0.129 0.783"><span class='ocrx_word' id='word_1_1' title='bbox 154 166 990 435; x_wconf 38' lang='lat' dir='ltr'><strong>2abbmssssw43</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 172 1286 965 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 106 1272 965 1787">
+     <span class='ocr_line' id='line_1_2' title="bbox 288 1286 965 1503; baseline -0.097 -45.586"><span class='ocrx_word' id='word_1_2' title='bbox 288 1326 329 1454; x_wconf 68' lang='lat' dir='ltr'><strong>Q·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 353 1286 553 1503; x_wconf 47' lang='lat' dir='ltr'><strong>Hfflsffl</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 572 1296 742 1432; x_wconf 66' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 950 1344 965 1471; x_wconf 20' lang='lat'><strong>··</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 172 1572 860 1787; baseline -0.089 3"><span class='ocrx_word' id='word_1_6' title='bbox 172 1572 860 1787; x_wconf 48' lang='lat' dir='ltr'><strong>Qssfflmssffwm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 442 1903 736 1968">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 442 1903 736 1968">
+     <span class='ocr_line' id='line_1_4' title="bbox 442 1903 736 1968; baseline -0.095 3"><span class='ocrx_word' id='word_1_7' title='bbox 442 1903 577 1968; x_wconf 73' lang='lat' dir='ltr'><strong>·L113R1,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 734 1903 736 1907; x_wconf 70' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1010 3334">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1010 3334">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1010 3334; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1010 3334; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
